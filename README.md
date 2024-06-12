@@ -1,6 +1,6 @@
 <p align="center">
 Hi there,</br>My name is <strong>Bluntman8338</strong> </br>👋</br></br>
-  <a href="https://github.com/Bluntman8338"> <img alt="followers" title="Give Me A Follow" src="https://img.shields.io/github/followers/Bluntman8338?color=db4e25&labelColor=420e84&style=for-the-badge&logo=github&label=Give%20Me%20A%20Follow" /></a></br>
+  <a href="https://github.com/Bluntman8338"> <img alt="followers" title="Give Me A Follow" src="https://img.shields.io/github/followers/Bluntman8338?color=FCEF01&labelColor=006A2F&style=for-the-badge&logo=github&label=Give%20Me%20A%20Follow" /></a></br>
 </p>
 
 
@@ -14,14 +14,14 @@ Hi there,</br>My name is <strong>Bluntman8338</strong> </br>👋</br></br>
 <details>
   <summary>📊 Stats</summary>
   <p align="center">
-<a href="https://github.com/198338/github-readme-stats"><img alt="Fry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=198338&show_icons=true&count_private=true&theme=midnight-purple&text_color=db4e25&react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/198338/github-readme-stats"><img alt="Fry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=198338&langs_count=8&layout=compact&theme=midnight-purple&react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Bluntman8338/github-readme-stats"><img alt="Bluntman8338's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bluntman8338&show_icons=true&count_private=true&theme=javascript-dark&text_color=FCEF01&react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Bluntman8338/github-readme-stats"><img alt="Bluntman8338's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bluntman8338&langs_count=8&layout=compact&theme=javascript-dark&react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 </details>
 
 <details>
   <summary>📋 View Streak</summary>
   <p align="center">
-    <a href="https://github.com//github-readme-streak-stats"> <img title="streak" alt="198338's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=198338&theme=midnight-purple&hide_border=true&stroke=0000&background=0d1119&ring=420e84&fire=db4e25&currStreakLabel=db4e25" /> </a>
+    <a href="https://github.com//github-readme-streak-stats"> <img title="streak" alt="Bluntman8338's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bluntman8338&theme=javascript-dark&hide_border=true&stroke=0000&background=0d1119&ring=FCEF01&fire=006A2F&currStreakLabel=006A2F" /> </a>
   </p>
 </details>
