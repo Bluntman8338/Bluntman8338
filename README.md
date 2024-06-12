@@ -1,6 +1,6 @@
 <p align="center">
-Hi there,</br>My name is <strong>198338</strong> </br>👋</br></br>
-  <a href="https://github.com/pjfry2184575"> <img alt="followers" title="Give Me A Follow" src="https://img.shields.io/github/followers/198338?color=db4e25&labelColor=420e84&style=for-the-badge&logo=github&label=Give%20Me%20A%20Follow" /></a></br>
+Hi there,</br>My name is <strong>Bluntman8338</strong> </br>👋</br></br>
+  <a href="https://github.com/Bluntman8338"> <img alt="followers" title="Give Me A Follow" src="https://img.shields.io/github/followers/Bluntman8338?color=db4e25&labelColor=420e84&style=for-the-badge&logo=github&label=Give%20Me%20A%20Follow" /></a></br>
 </p>
 
 
