@@ -8,7 +8,7 @@ Hi there,</br>My name is <strong>Bluntman8338</strong> </br>👋</br></br>
 <br>• 🧑🏼‍💻  I’m currently working on:<br>
 <p align="center">
   <a href="https://github.com/Bluntman8338/Secret-Stash">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bluntman8338&repo=Secret-Stash&title_color=006A2F&text_color=FCEF01&icon_color=006A2F&border_color=006A2F&react&hide_border=false&bg_color=171A18&show_description" alt="Readme Card">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bluntman8338&repo=Secret-Stash&title_color=006A2F&text_color=FCEF01&icon_color=006A2F&border_color=006A2F&react&hide_border=false&bg_color=171A18" alt="Readme Card">
     </a>
 </p>
 
