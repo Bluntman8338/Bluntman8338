@@ -6,7 +6,7 @@ Hi there,</br>My name is <strong>Bluntman8338</strong> </br>👋</br></br>
 
 
 <p align="center">
-<br>• 🧑🏼‍💻  I’m currently working on:<br><strong>Secret Stash</strong><br>A wiki for Discord Dungeons<br>
+<br>• 🧑🏼‍💻  I’m currently working on:<br><strong>Secret Stash</strong><br>A wiki for Discord Dungeons using BBTag<br>
 <br>• 📖 I’m learning & working with:</br><strong>HTML, CSS, JS<br>&<br>BBTag<br>(Blargbot's language)</strong></br>
 <br>• 🙋🏼 Pronouns: <strong>He/Him</strong></br>
 </p>
