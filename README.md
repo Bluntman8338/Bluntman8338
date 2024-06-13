@@ -20,7 +20,11 @@ Hi there,</br>My name is <strong>Bluntman8338</strong> </br>👋</br></br>
 <details>
   <summary>📊 Stats</summary>
   <p align="center">
-<a href="https://github.com/Bluntman8338/github-readme-stats"><img alt="Bluntman8338's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bluntman8338&show_icons=true&count_private=true&title_color=006A2F&text_color=FCEF01&icon_color=006A2F&border_color=006A2F&react&hide_border=false&bg_color=171A18" /></a>
+<a href="https://github.com/Bluntman8338/github-readme-stats">   <img alt="Bluntman8338's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bluntman8338&show_icons=true&count_private=true&title_color=006A2F&text_color=FCEF01&icon_color=006A2F&border_color=006A2F&react&hide_border=false&bg_color=171A18" /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block;">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluntman8338&langs_count=10&layout=compact&title_color=006A2F&text_color=FCEF01&icon_color=006A2F&border_color=006A2F&hide_border=false&bg_color=171A18" alt="Bluntman8338's Top Languages">
+    </a>
 </p>
 </details>
 
