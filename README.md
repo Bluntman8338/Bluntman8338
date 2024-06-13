@@ -5,7 +5,14 @@ Hi there,</br>My name is <strong>Bluntman8338</strong> </br>👋</br></br>
 <img src="https://gyazo.com/ccdad66bede0448c9f6bac082a004091.png" alt="Alt text" title="Optional title">
 
 <p align="center">
-<br>• 🧑🏼‍💻  I’m currently working on:<br><strong>Secret Stash</strong><br>A wiki for Discord Dungeons using BBTag<br>
+<br>• 🧑🏼‍💻  I’m currently working on:<br>
+<p align="center">
+  <a href="https://github.com/Bluntman8338/Secret-Stash">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bluntman8338&repo=Secret-Stash&title_color=006A2F&text_color=FCEF01&icon_color=006A2F&border_color=006A2F&react&hide_border=false&bg_color=171A18" alt="Readme Card">
+    </a>
+</p>
+
+<p align="center">
 <br>• 📖 I’m learning & working with:</br><strong>HTML, CSS, JS<br>&<br>BBTag<br>(Blargbot's language)</strong></br>
 <br>• 🙋🏼 Pronouns: <strong>He/Him</strong></br>
 </p>
